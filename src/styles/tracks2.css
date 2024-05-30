@@ -1,0 +1,77 @@
+.title {
+  justify-content: center;
+  text-align: center;
+}
+
+.card2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px 10px;
+  gap: 10px;
+
+}
+
+.card2 img {
+  width: 400px;
+  height: auto;
+}
+
+.card2 .icon .insta {
+
+  height: auto;
+  width: 20px;
+  margin-right: 15px;
+}
+
+.card2 .h5 {
+
+  display: flex;
+  float: left;
+  margin-right: 160px;
+  color: #FF7426;
+  margin-top: 20px;
+
+}
+
+.card2 .icon .linkdn {
+
+  height: auto;
+  width: 20px;
+  margin-top: 20px;
+}
+
+.card2 .image1 {
+
+  box-shadow: 0px 4px 25px 0px #0000001A;
+  gap: 0px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: grey;
+  border: 1px;
+
+}
+
+.card2 .image2 {
+
+  box-shadow: 0px 4px 25px 0px #0000001A;
+  gap: 0px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: grey;
+  border: 1px;
+
+
+}
+
+.card2 .image3 {
+
+  box-shadow: 0px 4px 25px 0px #0000001A;
+  gap: 20px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: grey;
+  border: 1px;
+
+
+
+}

@@ -1,0 +1,88 @@
+.comments .title {
+  text-align: center;
+  margin-top: 100px;
+
+}
+
+.comments .title p {
+
+  color: #8A8A8A;
+
+}
+
+.comments .cards {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 80px;
+
+}
+
+.cards .img1 {
+
+  box-shadow: 0px 4px 88px 0px #0000000D;
+  border-color: whitesmoke;
+  border-style: solid;
+  padding: 20px 15px;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.cards .img1 .img2 {
+  width: 10%;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+  margin-top: 30px;
+
+}
+
+.cards .img1 .p {
+
+  font-size: 13px;
+  color: #8A8A8A;
+
+}
+
+.cards .img1 h4 {
+
+  margin-top: 10px;
+
+}
+
+.cards .img1 .p1 {
+
+  color: #ACACAC;
+}
+
+.cards .img3 {
+
+  width: 10%;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+  margin-top: 30px;
+
+}
+
+.cards .img1 .name {
+
+  margin-top: 30px;
+
+}
+
+.cards .img1 .img4 {
+
+  width: 10%;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+  margin-top: 30px;
+
+}
+
+.cards .img1 h4 {
+
+  margin-top: 30px;
+
+}

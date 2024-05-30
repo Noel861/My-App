@@ -1,0 +1,75 @@
+.decor {
+  background-color: #FDF8EE;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.decor .Title {
+  margin-top: 50px;
+  font-size: 25px;
+  display: block;
+
+}
+
+.decor .Title span {
+  color: #FF7426;
+
+
+}
+
+.decor .heart {
+  display: flex;
+  gap: 0px;
+  margin-top: 40px;
+}
+
+.decor .heart .img img {
+  float: left;
+  margin-right: -90px;
+  background-color: #4D2C5E;
+  padding: 10px;
+  border-radius: 25px;
+
+}
+
+.decor .heart p {
+  font-size: 20px;
+  color: #8A8A8A;
+  margin-left: 10px;
+
+}
+
+.decor .jigsaw img {
+  float: left;
+  margin-right: -80px;
+  background-color: #4D2C5E;
+  padding: 10px;
+  border-radius: 25px;
+  height: auto;
+}
+
+.decor .jigsaw {
+
+  margin-top: -30px;
+
+
+}
+
+.decor .jigsaw p {
+  font-size: 20px;
+  color: #8A8A8A;
+
+}
+
+.text .h4 {
+
+  padding-top: 20px;
+  margin-left: -20px;
+
+}
+
+.text h4 {
+
+  margin-left: -20px;
+  margin-top: 4px
+}
